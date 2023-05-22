@@ -1,0 +1,2 @@
+Today we are learnning commands of GIT 
+to get more understanding of it.
